@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy DataNailytics (Naiara Rodríguez Solano)
+# ¡Hola! 👋 Soy Naiara Rodríguez Solano
 
 Bienvenido/a a mi espacio en GitHub. Soy una profesional apasionada por transformar datos en decisiones estratégicas, combinando análisis avanzado, inteligencia artificial y visualización interactiva.
 
