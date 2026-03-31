@@ -1,38 +1,58 @@
-# ¡Hola! 👋 Soy Datanailytics
+# 🤖 Datanailytics | Data Analytics & AI
 
-Bienvenido/a a mi espacio en GitHub. Soy una apasionada por transformar datos en decisiones estratégicas a través del análisis avanzado, inteligencia artificial y visualización interactiva.
+Designing intelligent systems that transform data into actionable decisions.
 
-🔍 **¿Qué encontrarás aquí?**  
-Estoy desarrollando un portafolio de proyectos enfocados en resolver problemas reales de negocio utilizando ciencia de datos, machine learning y herramientas de visualización. Mis proyectos combinan una sólida base analítica con aplicaciones prácticas de alto impacto.
+📊 AI • Data Analytics • Automation  
+⚡ End-to-end projects with real-world application
 
-## 🚀 Portafolio de Proyectos
 
-1. **Simulador de impacto financiero de decisiones estratégicas**  
-   Herramienta interactiva que permite modelar escenarios financieros en función de distintas decisiones empresariales. Ideal para procesos de planeación estratégica y toma de decisiones basada en datos.
+## 🧠 About
 
-2. **Análisis de experiencia de cliente con procesamiento de lenguaje natural (NLP)**  
-   Proyecto que analiza opiniones y comentarios de clientes utilizando técnicas de NLP para detectar patrones, sentimientos y oportunidades de mejora en la experiencia del cliente.
+Data Analytics & AI focused on building practical, business-driven solutions.
 
-3. **Sistema de optimización de cadena de suministro con IA**  
-   Modelo de machine learning que optimiza procesos logísticos y de inventario, minimizando costos y mejorando el servicio al cliente.
+Background in business combined with technical expertise in Python, Machine Learning, data visualization and process automation.
 
-4. **Panel de análisis de productividad y bienestar laboral**  
-   Dashboard interactivo que integra métricas de rendimiento y bienestar, ofreciendo insights para mejorar la eficiencia y el clima organizacional.
+Currently developing end-to-end projects that integrate data, AI and automation to solve real-world problems.
 
-## 🛠️ Tecnologías que utilizo
-- Python (Pandas, Scikit-learn, TensorFlow, NLP, etc.)
-- Power BI / Tableau
-- SQL
-- Git & GitHub
-- Streamlit / Dash (para apps interactivas)
-- Excel avanzado
 
-## 📫 Conecta conmigo
+## ⚙️ Tech Stack
 
-📧 Correo: [datanailytics@outlook.com](mailto:datanailytics@outlook.com)  
-🔗 LinkedIn / Portfolio personal: (¡En construcción!)
+**Languages & Libraries**  
+Python • Pandas • NumPy • Scikit-learn  
 
----
+**Data Visualization**  
+Power BI • Plotly  
 
-💡 *Estoy constantemente aprendiendo y compartiendo. Si tienes sugerencias, ideas o deseas colaborar, no dudes en escribirme.*
+**Core Areas**  
+Machine Learning • Predictive Analytics • Data Analysis  
 
+**Tools & Workflow**  
+Git • GitHub • Jupyter • APIs • Automation  
+
+
+## 🚀 Featured Projects
+
+🔹 **Predictive Analytics System**  
+End-to-end machine learning pipeline with data processing, modeling and business insights.
+
+🔹 **Customer Segmentation Model**  
+Clustering techniques applied to customer data, including dashboard visualization for decision-making.
+
+🔹 **Automation Workflows**  
+Process automation solutions designed to improve efficiency and reduce manual workload.
+
+
+## 🎯 Focus
+
+Building intelligent systems combining:
+- Data analytics
+- AI models
+- Automation workflows
+
+Goal: Deliver scalable, data-driven solutions with real business impact.
+
+
+## 🌐 Connect
+
+🔗 Portfolio: https://datanailytics.github.io  
+🔗 LinkedIn: https://www.linkedin.com/in/naiara-rsolano
