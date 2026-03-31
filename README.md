@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Datanailytics
 
-Bienvenido/a a mi espacio en GitHub. Soy un apasionado por transformar datos en decisiones estratégicas a través del análisis avanzado, inteligencia artificial y visualización interactiva.
+Bienvenido/a a mi espacio en GitHub. Soy una apasionads por transformar datos en decisiones estratégicas a través del análisis avanzado, inteligencia artificial y visualización interactiva.
 
 🔍 **¿Qué encontrarás aquí?**  
 Estoy desarrollando un portafolio de proyectos enfocados en resolver problemas reales de negocio utilizando ciencia de datos, machine learning y herramientas de visualización. Mis proyectos combinan una sólida base analítica con aplicaciones prácticas de alto impacto.
